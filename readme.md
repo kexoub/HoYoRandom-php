@@ -26,7 +26,7 @@
 # 使用方法 
 
 ## API地址
-`https://api.dreamofice.cn/hoyorandom/`  
+`https://ho-yo-random.vercel.app/hoyorandom/`  
 > 注意,本站已启用全站HSTS,并加入HSTS Preload,仅接受HTTPS访问.  
 
 ## 请求地址  
